@@ -1,2 +1,2 @@
 # MCL Calculator
-[Application Window](./mcl-calculator.png)
+![Application Window](./mcl-calculator.png)
