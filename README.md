@@ -1,2 +1,2 @@
-# mcl-calculator
-Simple MCL/MPL calculator written in MATLAB
+# MCL Calculator
+[Application Window](./mcl-calculator.png)
