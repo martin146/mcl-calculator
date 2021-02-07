@@ -1,4 +1,5 @@
 # MCL Calculator
+<<<<<<< HEAD
 ![Application Window](./Manual-MCL-Calculator.svg)
 
 ## Main Functionality
@@ -21,3 +22,6 @@ The red circle parameters are input values and can be changed, whereas the blue 
 3. *Maximum Path-Loss* in dB. Basically, its value is derived as MCL with additional antenna gains.
 4. *Receiver Sensitivity* in dBm. Below this threshold, the module can not receive and decode the signal.
 5. *Thermal Noise Floor* in dBm. It is a noise that is a result of the thermal agitation of electrons. The thermal noise power depends on the bandwidth and temperature of the surroundings. In this calculation, the temperature is considered as 300K.
+=======
+![Application Window](./mcl-calculator.png)
+>>>>>>> e4a0c1cbc31fcb3e03be750c764f9c2e9c167ec5
